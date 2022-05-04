@@ -1,9 +1,4 @@
-
 name: Generate Datas
-
-on:hddsdaname: Generate Datas
-
-name: Generate Dates
 
 on:
   schedule: # execute every 12 hours
