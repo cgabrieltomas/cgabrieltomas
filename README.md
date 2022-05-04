@@ -1,10 +1,5 @@
 ## Opa, Tudo bem? Eu sou o César Gabriel ⚡
 
-- Na procura de um estágio na área de Desenvolvimento Front-End;
-- Atualmente, meu foco é aprimorar meu HTML, CSS e JavaScript, e partir para o ReactJs;
-- Acesse meu perfil no linkedin: https://linkedin.com/in/cgabrieltomas
-- Pode também entrar em contato via e-mail: gabrieltomasf@gmail.com 
-
 <div align="center">
   <a href="https://github.com/cgabrieltomas">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=cgabrieltomas&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
